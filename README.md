@@ -61,3 +61,13 @@ The V1 repository is preserved. V2 is a separate repository and release line.
 ## En français
 
 Ouvre **index.html**, choisis ta langue puis une matière. Chaque parcours propose dix cours, leur mini-jeu et une explication du capitaine. Les deux versions sont séparées et jouables hors connexion. Le projet reste un prototype pédagogique à relire avec des enseignants et à tester sur de vrais appareils. Les crédits de KETH et le rôle d’assistante de réalisation de SheIsZoe sont conservés.
+
+## Install the school as an app / Installer l’école
+
+On the HTTPS website, choose **Install the school**, then confirm the browser prompt where supported. On iPhone or iPad, the page explains how to use Safari’s Share → Add to Home Screen. Native prompts depend on browser support and cannot be forced.
+
+Choose **Save for offline use** and select French, English or both. Wait for the ready message before disconnecting. Download progress is shown; file integrity is checked before a language package is marked ready. A failed update keeps that language’s previous complete copy. Preparing offline content does not change the learner journal.
+
+The installed icon and saved lessons are separate steps. Browser storage may be removed by the device; export your journal and keep the ZIP for a separate portable copy. Local HTML files already work offline but cannot install a service worker; use the online site to install the app icon.
+
+[Installation page](INSTALL.html). On the French site: **Installer l’école**, puis **Préparer hors connexion**. Le ZIP reste disponible.

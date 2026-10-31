@@ -50,5 +50,21 @@
     ],
     "regression": "All 810 English games and 810 classroom entries checked; valid and invalid answers tested; equal-sharing prompts retain their reasoning task",
     "limits": "This editorial pass and automated regression checks are not independent native-speaker proofreading, learner testing or individual pedagogical certification of every sentence."
+  },
+  "installation": {
+    "status": "PASS",
+    "checks": [
+      "manifest and icon dimensions",
+      "SHA-256 file integrity",
+      "language package progress and readiness",
+      "offline delivery of both schools and teachers",
+      "failed updates retain previous complete package",
+      "unprepared content not marked ready",
+      "V1 scope and learner journals untouched",
+      "file-mode fallback",
+      "iPhone instructions",
+      "user-initiated browser installation prompt"
+    ],
+    "limits": "Service-worker and interface simulations passed. Real installation prompts and airplane-mode behaviour need verification on physical devices."
   }
 }
