@@ -1,5 +1,5 @@
 {
-  "version": "1e0bd0a0b3b94c13",
+  "version": "10c783f57412e7df",
   "assets": [
     {
       "url": "index.html",
@@ -88,8 +88,8 @@
     {
       "url": "fr/MANUEL-UTILISATION.html",
       "group": "fr",
-      "bytes": 264150,
-      "sha256": "1e01000cd8cb5ee65b8cff29faac5b1b20b48422801564f4ec6175015dc97de3"
+      "bytes": 259475,
+      "sha256": "78f498d249c7ecf233515f970b07c5679a435e61cdf802bc94d744cb796b6d44"
     },
     {
       "url": "fr/OPEN-SEA-SCHOOL.html",
@@ -130,8 +130,8 @@
     {
       "url": "fr/USER-MANUAL.html",
       "group": "fr",
-      "bytes": 264150,
-      "sha256": "1e01000cd8cb5ee65b8cff29faac5b1b20b48422801564f4ec6175015dc97de3"
+      "bytes": 259475,
+      "sha256": "78f498d249c7ecf233515f970b07c5679a435e61cdf802bc94d744cb796b6d44"
     },
     {
       "url": "fr/VERIFICATION.txt",
@@ -184,8 +184,8 @@
     {
       "url": "en/MANUEL-UTILISATION.html",
       "group": "en",
-      "bytes": 227200,
-      "sha256": "0b6a75186024ffcb5ce4e7e49c764f8fb2f800d0b7f49ff471361848706c5368"
+      "bytes": 215831,
+      "sha256": "12121af223337e4208d7d0a122767d47eb320515b212acb7c97d29be5dd055dc"
     },
     {
       "url": "en/OPEN-SEA-SCHOOL.html",
@@ -226,8 +226,8 @@
     {
       "url": "en/USER-MANUAL.html",
       "group": "en",
-      "bytes": 218692,
-      "sha256": "d9014d312c0ff827e9da8e36e944627fa2db2da796ea74292eb6691d635abe25"
+      "bytes": 215831,
+      "sha256": "12121af223337e4208d7d0a122767d47eb320515b212acb7c97d29be5dd055dc"
     },
     {
       "url": "en/VERIFICATION.txt",

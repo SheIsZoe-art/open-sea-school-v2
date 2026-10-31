@@ -95,5 +95,25 @@
       "service-worker cache prefixes and scopes isolated"
     ],
     "limits": "Version isolation and interactions were simulated; real-device installation and accessibility checks remain necessary."
+  },
+  "manuals": {
+    "status": "PASS",
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "sectionsPerManual": 24,
+    "filesChecked": 12,
+    "catalogueEntriesPerLanguage": 810,
+    "filterQueries": 972,
+    "checks": [
+      "current course controls",
+      "guided classroom",
+      "expanded studio",
+      "footer installation and offline recovery",
+      "edition-specific XP and journal export",
+      "credit retention",
+      "local links and section anchors"
+    ]
   }
 }

@@ -5,7 +5,7 @@
   "description": "KETH’s offline sea university, with Captain Claw.",
   "scripts": {
     "build": "node scripts/build.cjs",
-    "test": "node scripts/verify-v2.cjs . && node scripts/verify-pwa.cjs && node scripts/verify-install-ui.cjs && node scripts/verify-versions.cjs"
+    "test": "node scripts/verify-v2.cjs . && node scripts/verify-pwa.cjs && node scripts/verify-install-ui.cjs && node scripts/verify-versions.cjs && node scripts/verify-manuals.cjs"
   },
   "engines": {
     "node": ">=18"
