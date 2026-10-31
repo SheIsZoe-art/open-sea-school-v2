@@ -1,0 +1,13 @@
+{
+  "name": "open-sea-school-v2",
+  "version": "2.0.0",
+  "private": true,
+  "description": "KETH’s offline sea university, with Captain Claw.",
+  "scripts": {
+    "build": "node scripts/build.cjs",
+    "test": "node scripts/verify-v2.cjs ."
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
