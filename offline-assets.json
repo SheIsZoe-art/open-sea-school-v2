@@ -1,5 +1,5 @@
 {
-  "version": "02197be7290f433f",
+  "version": "458f9d02341c6f22",
   "assets": [
     {
       "url": "index.html",
@@ -16,8 +16,8 @@
     {
       "url": "install.js",
       "group": "core",
-      "bytes": 9304,
-      "sha256": "6b59ced5de8c7f6ae957f57d64351f94a4205dd59aa7ac1d84a8a042722abd3a"
+      "bytes": 9873,
+      "sha256": "1bcc6986d31e833102fc5c149a715b07dbd86e0441274d6cb9bc24349e6308c8"
     },
     {
       "url": "install.css",
@@ -51,7 +51,7 @@
     },
     {
       "url": "fr/CREDITS.html",
-      "group": "fr",
+      "group": "core",
       "bytes": 15320,
       "sha256": "622d9d0796c56ece63c8d0b203e05556be26452381e1c4728b66a616a35c23f0"
     },
@@ -69,13 +69,13 @@
     },
     {
       "url": "fr/index.html",
-      "group": "fr",
+      "group": "core",
       "bytes": 15338,
       "sha256": "81333189b3783d37befb840d83f3fbf4bf66de3acbf688b93a27fb1c6c5aba4c"
     },
     {
       "url": "fr/LA-CLASSE-DU-CAPITAINE-PINCE.html",
-      "group": "fr",
+      "group": "core",
       "bytes": 609478,
       "sha256": "1b16d670ba596d0b2ecf089d91b1d6784b996570c96b4e23581578fad4f53097"
     },
@@ -93,7 +93,7 @@
     },
     {
       "url": "fr/OPEN-SEA-SCHOOL.html",
-      "group": "fr",
+      "group": "core",
       "bytes": 1770948,
       "sha256": "75e553781d74d725deb026b2accda55117111552a553c151939bfe1b374c62dc"
     },
@@ -141,7 +141,7 @@
     },
     {
       "url": "en/CAPTAIN-CLAW-CLASSROOM.html",
-      "group": "en",
+      "group": "core",
       "bytes": 1359541,
       "sha256": "7021c1cbcda4ae557f43d18dbfffe1531c055d5fa2d5131b59e07fad8c95b52a"
     },
@@ -153,7 +153,7 @@
     },
     {
       "url": "en/CREDITS.html",
-      "group": "en",
+      "group": "core",
       "bytes": 4492,
       "sha256": "faaca616bc5abe060bfef020cc97265958c548b0855ac0db5f014673604fd228"
     },
@@ -171,7 +171,7 @@
     },
     {
       "url": "en/index.html",
-      "group": "en",
+      "group": "core",
       "bytes": 12576,
       "sha256": "99e604444c0489a6f0398e4087def3eddab79418cf64bf670399f2340b3990ab"
     },
@@ -189,7 +189,7 @@
     },
     {
       "url": "en/OPEN-SEA-SCHOOL.html",
-      "group": "en",
+      "group": "core",
       "bytes": 1339497,
       "sha256": "01d4777e0d66e9574b15a736b5f6c741ec12c8dbbd4fcabdaa93f0c6bbbe06e7"
     },

@@ -65,6 +65,20 @@
       "iPhone instructions",
       "user-initiated browser installation prompt"
     ],
-    "limits": "Service-worker and interface simulations passed. Real installation prompts and airplane-mode behaviour need verification on physical devices."
+    "limits": "Service-worker and interface simulations passed. Real installation prompts and airplane-mode behaviour need verification on physical devices.",
+    "offlineRecovery": {
+      "status": "PASS",
+      "changes": [
+        "core package contains both schools and both teachers before optional document preparation",
+        "readiness checks each cached resource",
+        "missing pages offer cached recovery links"
+      ],
+      "tests": [
+        "schools work with network disabled before PREPARE",
+        "partial language cache is not marked ready",
+        "missing core game invalidates basic readiness",
+        "unprepared manual offers installer recovery"
+      ]
+    }
   }
 }

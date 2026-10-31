@@ -71,3 +71,7 @@ Choose **Save for offline use** and select French, English or both. Wait for the
 The installed icon and saved lessons are separate steps. Browser storage may be removed by the device; export your journal and keep the ZIP for a separate portable copy. Local HTML files already work offline but cannot install a service worker; use the online site to install the app icon.
 
 [Installation page](INSTALL.html). On the French site: **Installer l’école**, puis **Préparer hors connexion**. Le ZIP reste disponible.
+
+### Offline reliability update
+
+The initial app package now saves both schools, both guided classrooms, the language welcome pages and creator credits. Keep the first connection active until the ready message appears. The language selector prepares the remaining manuals and support documents. Readiness checks confirm the actual cached files, not just a cache folder. A missing page shows a recovery screen with links to the cached welcome and installation pages instead of a plain error message. On devices with separate installed-app storage, open the installed app online once and check readiness there before disconnecting.
