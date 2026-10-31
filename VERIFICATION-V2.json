@@ -33,5 +33,22 @@
       "creator and assistant credited",
       "bilingual welcome links both credits pages"
     ]
+  },
+  "englishEditorial": {
+    "status": "PASS",
+    "registers": {
+      "6–8": "Concrete wording, short steps and explanations of terms",
+      "9–11": "Structured reasoning and checks",
+      "12–15": "Justification, assumptions and limits"
+    },
+    "reviewedSamples": "27 course profiles across nine subjects and three age bands; all 80 jokes read",
+    "changes": [
+      "Age-sensitive guidance across 25 interaction families",
+      "Targeted early-years definitions and mission instructions",
+      "23 joke setups or punchlines rewritten; all 80 jokes retained",
+      "Controlled US spelling without altering answer data or French-learning examples"
+    ],
+    "regression": "All 810 English games and 810 classroom entries checked; valid and invalid answers tested; equal-sharing prompts retain their reasoning task",
+    "limits": "This editorial pass and automated regression checks are not independent native-speaker proofreading, learner testing or individual pedagogical certification of every sentence."
   }
 }
