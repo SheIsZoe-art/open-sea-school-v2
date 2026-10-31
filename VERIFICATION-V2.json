@@ -1,1 +1,37 @@
-{"status":"PASS","results":[{"language":"fr","courses":810,"gameChecks":9720,"gameFamilies":25,"teacherLinks":810,"teacherStepsChecked":4860},{"language":"en","courses":810,"gameChecks":9720,"gameFamilies":25,"teacherLinks":810,"teacherStepsChecked":4860}],"limits":"Automated document simulation and solution checks; not real-device, classroom or independent curriculum validation."}
+{
+  "status": "PASS",
+  "results": [
+    {
+      "language": "fr",
+      "courses": 810,
+      "gameChecks": 9720,
+      "gameFamilies": 25,
+      "teacherLinks": 810,
+      "teacherStepsChecked": 4860
+    },
+    {
+      "language": "en",
+      "courses": 810,
+      "gameChecks": 9720,
+      "gameFamilies": 25,
+      "teacherLinks": 810,
+      "teacherStepsChecked": 4860
+    }
+  ],
+  "limits": "Automated document simulation and solution checks; not real-device, classroom or independent curriculum validation.",
+  "referencePages": {
+    "status": "PASS",
+    "pages": [
+      "index.html",
+      "en/index.html",
+      "fr/index.html",
+      "en/CREDITS.html",
+      "fr/CREDITS.html"
+    ],
+    "checks": [
+      "local navigation targets exist",
+      "creator and assistant credited",
+      "bilingual welcome links both credits pages"
+    ]
+  }
+}
