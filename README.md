@@ -75,3 +75,17 @@ The installed icon and saved lessons are separate steps. Browser storage may be 
 ### Offline reliability update
 
 The initial app package now saves both schools, both guided classrooms, the language welcome pages and creator credits. Keep the first connection active until the ready message appears. The language selector prepares the remaining manuals and support documents. Readiness checks confirm the actual cached files, not just a cache folder. A missing page shows a recovery screen with links to the cached welcome and installation pages instead of a plain error message. On devices with separate installed-app storage, open the installed app online once and check readiness there before disconnecting.
+
+## Stable, Classic and Preview
+
+- `/` is the stable school. Its interface remains classic; the 8-bit update is not promoted automatically. Existing stable journals keep their original storage keys.
+- `/classic/` is the preserved classic baseline. Its frozen delivery templates live in `source-templates/classic-delivery/`; rebuilds do not replace them from current Stable.
+- `/preview/` is the 8-bit test edition with cumulative and per-subject XP. It is a pre-release, not a replacement for Stable.
+
+Each edition has separate journal keys, app identity, service-worker scope and cache prefix. Preview XP uses its own namespace. Trying Preview therefore starts a separate record. You can explicitly export and import a journal to move supported progress; Stable does not understand Preview-specific XP. Keep your export before switching.
+
+The version bar links all three editions. Every edition has its own offline ZIP and installer. `npm run build` regenerates the versioned copies; `node scripts/verify-versions.cjs` checks storage and cache isolation.
+
+### Returning to an earlier version
+
+The `v2.0.0` release preserves the exact public baseline before the 8-bit Preview, with its original offline ZIP. Tags are kept as fixed checkpoints. The next update is released as `v2.1.0-preview.1` while Stable remains at the main address. To roll back a future promotion, create a new commit restoring the stable delivery from its saved tag, or revert the promotion commit, then publish normally. Do not reset or force-push shared history. An installed app may need to reopen online to receive the rollback; restoring code does not itself restore learner journals.

@@ -1,0 +1,39 @@
+DEEPER DIFFICULTY REVISION — VERIFICATION
+31 October 2026
+
+Passed automated checks on the self-contained English school:
+
+- JavaScript syntax, 810 distinct course IDs/titles and ten courses per subject
+  per age band.
+- 9,720 generated course configurations accept a constructed solution and reject
+  a deliberately incorrect one. Every configuration starts unsolved.
+- 1,350 generated arithmetic exercises independently recalculated from prompts.
+- Slider targets, quantities, annotation indices and routes remain reachable.
+- 324 new puzzle configurations across nine families and nine age bands.
+- Generated Sudoku grids have one checked completion, at sizes 4, 6 and 9.
+- Tower solution paths obey disc ordering and optional neighbour-only links.
+- Generated lamp solutions actually turn all lamps off under their toggle rule.
+- Maze stamps and exit can be visited through valid corridor routes.
+- Rule sets have both matching and non-matching cards; the multi-round UI changes
+  the rule after success and completes only after all required rounds.
+- Signed token puzzles meet the value, count, space and budget constraints.
+- 1,152 arcade configurations across all 16 families and nine age settings.
+- Every arcade configuration has a feasible solution and rejects a wrong state.
+- A generated rover program was actually executed through its generated maze.
+- Structural age checks: representation matching, grid sizes, stamps, multi-resource
+  constraints, circuit switch/rule count, multiple recipe ingredients and variables
+  on both sides differ between younger and older settings.
+- Same-age replay checks: 16 different Sudoku layouts, 16 maze layouts, three lamp
+  rules, compound selection rules, varied sentence cases and three circuit topologies.
+- Printable cards and companions regenerated from the current course snapshots.
+
+This is document-simulation and logic testing, not a full-browser visual test.
+Actual display, drag/touch behaviour, keyboard focus, audio permissions, printing,
+downloads and screen-reader behaviour remain to be checked on real devices.
+Automatic local-file inspection is blocked by the integrated browser policy;
+no workaround was attempted.
+
+Task demands are deliberately differentiated, but empirical difficulty for a
+particular child has not been measured. The catalogue still needs teacher review,
+learner trials and broader educational material. It is not a cognitive assessment,
+certified curriculum or substitute for complete schooling.

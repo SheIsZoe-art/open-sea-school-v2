@@ -1,0 +1,64 @@
+DEEPER AGE PROGRESSION AND REPLAY
+31 October 2026
+
+The catalogue remains 810 courses. This revision changes the underlying tasks.
+
+PUZZLE REEF AND CAPTAIN’S COVE
+
+Memory: 3–11 pairs across the age bands. Identical pictures progress to picture/word
+matching, sums/values, expression/value matching and equivalent fractions. Numeric
+faces have distinct values so a mathematically valid match is not rejected because
+of an accidental hidden-pair ambiguity.
+
+Number squares: generated unique 4×4, 6×6 and 9×9 puzzles with shuffled digit,
+row/column structure and independently removed clues. The number palette avoids
+cycling a cell through nine values repeatedly.
+
+Towers: scrambled starts, changing destination docks, more discs and, later,
+neighbour-only transfer links. Generated states have checked legal solution paths.
+
+Lamps: larger boards and different cross, diagonal or row/column toggle rules.
+Generated boards have a checked solution; reversing effects remains part of play.
+
+Sequences: changing start values and steps, reverse letter order, doubling,
+two or three streams, Roman numerals and irrelevant extra cards.
+
+Rules: single colour/shape progresses to AND, OR, XOR, NOT, conditional selection
+and three-feature constraints. Older tasks require several successful rounds;
+the rule changes between rounds.
+
+Spatial puzzles: rotations, reflections, ordered combinations and, later,
+colour relabelling. The operation order matters.
+
+Mazes: generated corridors and dead ends rather than the same two obstacles.
+Older tasks require collecting stamps in side passages before reaching the flag.
+
+Token puzzles: simple sums progress to signed values, exact item count, a second
+resource total and a budget. Each generated task has a feasible witness solution.
+
+ARCADE
+
+All 16 arcade families now use the selected age. Tasks include unequal manifests,
+several products per load, ratio shares, repairing existing loads, fixed fraction
+parts, final-versus-added water, multiple recipe ingredients, multi-stage signed
+changes, variables on both sides, half-unit slopes, sentence decoys and clause
+structures, multi-output circuits, BCE/CE records, different classification
+criteria, and packing with both cost and load constraints.
+
+Closing every switch is no longer a general solution to the circuit. Later
+circuits require a green output, no red fault and a switch budget; several circuit
+topologies can appear at the same age.
+
+SELECTED COURSE ENGINES
+
+Older rover programs navigate generated obstacles, execute blocked commands
+without moving and may have a command budget. Older rhythm tasks derive an
+unprinted second bar by repetition, reversal, inversion or cyclic shift.
+Melodies can use relative key changes rather than an explicit full note list.
+Composition tasks coordinate position constraints and accept multiple solutions.
+Some later binary tasks start from hexadecimal.
+
+These are designed differences in task demands, not measured rankings of an
+individual learner’s abilities. Age is a starting guide. Choose another age freely.
+Factual banks remain finite; procedural replay does not make the curriculum
+infinite or replace broader learning experiences.

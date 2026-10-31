@@ -1,11 +1,11 @@
 {
-  "version": "cb6dddb1eb1fabd2",
+  "version": "1e0bd0a0b3b94c13",
   "assets": [
     {
       "url": "index.html",
       "group": "core",
-      "bytes": 13572,
-      "sha256": "a97025ba265099911ca1126fa57b9638acb282b9380e433bae0297e3829de53f"
+      "bytes": 14414,
+      "sha256": "ec7c65930c76dc039cf81144b2fafdecdee1e727dcd9fa0a4add9e9989341dbe"
     },
     {
       "url": "INSTALL.html",
@@ -46,14 +46,14 @@
     {
       "url": "fr/CAPTAINS-COVE-GUIDE.html",
       "group": "fr",
-      "bytes": 5720,
-      "sha256": "1fd9728e2869fe36b34aa520cf757892b8fd463e76e5bd98d486af00ac08baae"
+      "bytes": 6565,
+      "sha256": "5ba90d940fddc73886e9d23ac9a76678a7e3af88159829cf3e7e26389fb6fb65"
     },
     {
       "url": "fr/CREDITS.html",
       "group": "core",
-      "bytes": 15320,
-      "sha256": "622d9d0796c56ece63c8d0b203e05556be26452381e1c4728b66a616a35c23f0"
+      "bytes": 16165,
+      "sha256": "5c303da9dc6923971493b1dea99b1dc0b9a7a02b0df36cd9111f99ce8bdc6070"
     },
     {
       "url": "fr/CREDITS.md",
@@ -70,14 +70,14 @@
     {
       "url": "fr/index.html",
       "group": "core",
-      "bytes": 15338,
-      "sha256": "81333189b3783d37befb840d83f3fbf4bf66de3acbf688b93a27fb1c6c5aba4c"
+      "bytes": 16183,
+      "sha256": "a79a08eb2b3b9141d57a56ab35a3cff04c25070161cf3d6a9af8d7aa32d021fb"
     },
     {
       "url": "fr/LA-CLASSE-DU-CAPITAINE-PINCE.html",
       "group": "core",
-      "bytes": 609478,
-      "sha256": "1b16d670ba596d0b2ecf089d91b1d6784b996570c96b4e23581578fad4f53097"
+      "bytes": 610323,
+      "sha256": "bd10a075e3ebb9456518d5fef1d684ed053560b766be31910ce2af5736cb4032"
     },
     {
       "url": "fr/LICENSE",
@@ -88,20 +88,20 @@
     {
       "url": "fr/MANUEL-UTILISATION.html",
       "group": "fr",
-      "bytes": 263305,
-      "sha256": "430e852c9f285ae57305e60825fa9823566d6b5268f9f9d30ff628102fc322b0"
+      "bytes": 264150,
+      "sha256": "1e01000cd8cb5ee65b8cff29faac5b1b20b48422801564f4ec6175015dc97de3"
     },
     {
       "url": "fr/OPEN-SEA-SCHOOL.html",
       "group": "core",
-      "bytes": 1770948,
-      "sha256": "75e553781d74d725deb026b2accda55117111552a553c151939bfe1b374c62dc"
+      "bytes": 1771793,
+      "sha256": "2d55cf5029f836eb7e2dedae0b73493f5fcf5070afc7df3357d899c6d80367ed"
     },
     {
       "url": "fr/PRINTABLE-LESSON-CARDS.html",
       "group": "fr",
-      "bytes": 932067,
-      "sha256": "88f320e373935b0a6a876c47c8e6de6bf911c301b0f02a861a1bff07d1386e8c"
+      "bytes": 932912,
+      "sha256": "17371318d4ea37bf76be780a95b304790cf9578599ece5109c52f2d331d9e695"
     },
     {
       "url": "fr/README.txt",
@@ -118,20 +118,20 @@
     {
       "url": "fr/SOURCES-AND-COVERAGE.html",
       "group": "fr",
-      "bytes": 6331,
-      "sha256": "008be3d50f8e6a61a19580cadd3c384330745c7f1498b461d44ee3e428f4100d"
+      "bytes": 7176,
+      "sha256": "95aea146e544f34a9dbe647efae172cef0cfacf6f372c03cee6d65ab2b69eb1b"
     },
     {
       "url": "fr/STUDY-PLANNER.html",
       "group": "fr",
-      "bytes": 231629,
-      "sha256": "4fb8bf536bdc91f6eaabdeb86a389dc687189de57bd7b5a0fa7f7e484c7a933f"
+      "bytes": 232474,
+      "sha256": "e1a562f0d4f17932fba4e049ab2d7b0de158c6cbf44a6f3b64fcb4d2433b9c8f"
     },
     {
       "url": "fr/USER-MANUAL.html",
       "group": "fr",
-      "bytes": 263305,
-      "sha256": "430e852c9f285ae57305e60825fa9823566d6b5268f9f9d30ff628102fc322b0"
+      "bytes": 264150,
+      "sha256": "1e01000cd8cb5ee65b8cff29faac5b1b20b48422801564f4ec6175015dc97de3"
     },
     {
       "url": "fr/VERIFICATION.txt",
@@ -142,20 +142,20 @@
     {
       "url": "en/CAPTAIN-CLAW-CLASSROOM.html",
       "group": "core",
-      "bytes": 1359541,
-      "sha256": "7021c1cbcda4ae557f43d18dbfffe1531c055d5fa2d5131b59e07fad8c95b52a"
+      "bytes": 1360374,
+      "sha256": "7a13abee69e2203ae3759f39790bc184579b08dc9ed021ef56f70009d9507447"
     },
     {
       "url": "en/CAPTAINS-COVE-GUIDE.html",
       "group": "en",
-      "bytes": 4863,
-      "sha256": "36e1982e63557a9c80b5d0ce691820cd8b427c7f8a6194d0b52fc6a409941d98"
+      "bytes": 5696,
+      "sha256": "846b6e0ade81395df14223c3208532c486887f98e9aa074e2193c81adb8fc335"
     },
     {
       "url": "en/CREDITS.html",
       "group": "core",
-      "bytes": 4492,
-      "sha256": "faaca616bc5abe060bfef020cc97265958c548b0855ac0db5f014673604fd228"
+      "bytes": 5325,
+      "sha256": "063eb1871d55644551824256b683dad8e8fc60f27ee734dd80ba141672114619"
     },
     {
       "url": "en/CREDITS.md",
@@ -172,8 +172,8 @@
     {
       "url": "en/index.html",
       "group": "core",
-      "bytes": 12576,
-      "sha256": "99e604444c0489a6f0398e4087def3eddab79418cf64bf670399f2340b3990ab"
+      "bytes": 13409,
+      "sha256": "bdbcfd298d497075a967d9e29ceac09c0173a8541573afdf81d95f7b26aed141"
     },
     {
       "url": "en/LICENSE",
@@ -184,20 +184,20 @@
     {
       "url": "en/MANUEL-UTILISATION.html",
       "group": "en",
-      "bytes": 226367,
-      "sha256": "24a71508ee090bab490a1070001f322e31057d4cb2809374123789de4f14a7b9"
+      "bytes": 227200,
+      "sha256": "0b6a75186024ffcb5ce4e7e49c764f8fb2f800d0b7f49ff471361848706c5368"
     },
     {
       "url": "en/OPEN-SEA-SCHOOL.html",
       "group": "core",
-      "bytes": 1339497,
-      "sha256": "01d4777e0d66e9574b15a736b5f6c741ec12c8dbbd4fcabdaa93f0c6bbbe06e7"
+      "bytes": 1340330,
+      "sha256": "ad086e77ab55a252d6c25308dbe6c3ef9ee558e1b269a679e2a1a14379143ee4"
     },
     {
       "url": "en/PRINTABLE-LESSON-CARDS.html",
       "group": "en",
-      "bytes": 786768,
-      "sha256": "7034c1424416cfff2c58baacb5f917130ef2e99e682c828499efd966cd56b000"
+      "bytes": 787601,
+      "sha256": "881dc0538b8c24d9fcd87bb3a5ab505f2ebdc7b2e325c59eac1ae3e37cb3ab35"
     },
     {
       "url": "en/README.txt",
@@ -214,20 +214,20 @@
     {
       "url": "en/SOURCES-AND-COVERAGE.html",
       "group": "en",
-      "bytes": 5363,
-      "sha256": "0d28c5016ce19cc699fbaa27dc5f22986e1ed212ee4180592c089d59de188ab9"
+      "bytes": 6196,
+      "sha256": "1fa4c3b5f06cddac6c17f6af24b130b29577286e891f58ad67d957c864349433"
     },
     {
       "url": "en/STUDY-PLANNER.html",
       "group": "en",
-      "bytes": 176956,
-      "sha256": "e140fcb82f1aa5650f8cfcfc5c5fe85ba6f84cb1690c9b985beac827a4392a70"
+      "bytes": 177789,
+      "sha256": "0bf04d2d0331450994fa2cdc910f9d9eaa4de40609a2ed1d37f2bb1788aca4c7"
     },
     {
       "url": "en/USER-MANUAL.html",
       "group": "en",
-      "bytes": 217859,
-      "sha256": "95ae80f4eb63e455eb45ccfbfd0a4c78071284b95e73c555dfaf8f0e754d2b2c"
+      "bytes": 218692,
+      "sha256": "d9014d312c0ff827e9da8e36e944627fa2db2da796ea74292eb6691d635abe25"
     },
     {
       "url": "en/VERIFICATION.txt",

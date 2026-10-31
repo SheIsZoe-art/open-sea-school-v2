@@ -1,0 +1,6 @@
+ÉDITION FRANÇAISE
+810 cours et 81 parcours vérifiés.
+9 720 configurations de cours ; 1 350 calculs mathématiques recalculés indépendamment ; 324 configurations de casse-tête ; 1 152 configurations d’arcade.
+Syntaxe JavaScript, rendu simulé, réussite et refus de réponses incorrectes, sauvegarde française séparée, grilles de Sudoku uniques et variantes vérifiés.
+Aucun appel réseau nécessaire pendant le jeu ; aucune dépendance distante intégrée.
+Limites : tests automatisés et simulation documentaire. Validation pédagogique indépendante, audio, clavier, tactile et performances sur appareils modestes restent à approfondir.

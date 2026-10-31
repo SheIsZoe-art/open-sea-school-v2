@@ -80,5 +80,20 @@
         "unprepared manual offers installer recovery"
       ]
     }
+  },
+  "versioning": {
+    "status": "PASS",
+    "stableBaseline": "d486eeb05a8e5ef1d89ab3bb88bf8ec68adf4fcf",
+    "stableRelease": "v2.0.0",
+    "previewRelease": "v2.1.0-preview.1",
+    "checks": [
+      "Stable interface retained",
+      "Classic frozen across rebuilds",
+      "Preview has 8-bit UI and subject XP journal",
+      "all three bilingual catalogs and teacher links checked",
+      "journal keys isolated by edition and language",
+      "service-worker cache prefixes and scopes isolated"
+    ],
+    "limits": "Version isolation and interactions were simulated; real-device installation and accessibility checks remain necessary."
   }
 }

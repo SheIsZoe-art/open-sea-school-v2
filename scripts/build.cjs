@@ -2,3 +2,4 @@ const fs=require('fs'),path=require('path');const root=path.resolve(__dirname,'.
 
 require('../source/local-reference-pages.cjs')(root);
 require('../source/build-pwa.cjs')(root);
+require('./build-versions.cjs');
