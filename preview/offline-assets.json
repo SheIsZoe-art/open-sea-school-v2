@@ -1,5 +1,5 @@
 {
-  "version": "4ea4db2d3c9a64b7",
+  "version": "451e799315f525f7",
   "assets": [
     {
       "url": "index.html",
@@ -94,8 +94,8 @@
     {
       "url": "fr/OPEN-SEA-SCHOOL.html",
       "group": "core",
-      "bytes": 1828105,
-      "sha256": "3209f47dfcdd82ec09bd534ada532ea781a75e4b6e88b4a1f6f62ad6f5033220"
+      "bytes": 1837638,
+      "sha256": "61752a3839eb470aba1b7d7afafc9b465fce0740643f209668221c317a960fcc"
     },
     {
       "url": "fr/PRINTABLE-LESSON-CARDS.html",
@@ -190,8 +190,8 @@
     {
       "url": "en/OPEN-SEA-SCHOOL.html",
       "group": "core",
-      "bytes": 1396635,
-      "sha256": "926913ac606f0ba6298f3172061d8cd8de04f11d93d93da8d5279eff95ef5462"
+      "bytes": 1406168,
+      "sha256": "f4f090554c84119a1b5f5b55b046ea856f5f839e15c4a8b423b97de2debed94b"
     },
     {
       "url": "en/PRINTABLE-LESSON-CARDS.html",
