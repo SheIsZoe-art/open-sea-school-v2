@@ -1,5 +1,5 @@
 {
-  "version": "46fa8e308cab5a26",
+  "version": "15073178543c6426",
   "assets": [
     {
       "url": "index.html",
@@ -88,14 +88,14 @@
     {
       "url": "fr/MANUEL-UTILISATION.html",
       "group": "fr",
-      "bytes": 259495,
-      "sha256": "30224206e0682e214ff9487481275958f53afdfac17ef667bc8b4fa7f9db03c5"
+      "bytes": 259939,
+      "sha256": "d250890942eb77fe14bcf1b1bc7b9aff4d501ae7e9e2ffedc94db8ac1e1c6778"
     },
     {
       "url": "fr/OPEN-SEA-SCHOOL.html",
       "group": "core",
-      "bytes": 1806832,
-      "sha256": "9aa829b77f9b682f009b95e1663ac2aee8c4ca3b266d12f5fa710ccefd5f7e3e"
+      "bytes": 1817166,
+      "sha256": "9c18165994477a1055e1183081f26dc8ebd2007d8db53b81def974017bfc46da"
     },
     {
       "url": "fr/PRINTABLE-LESSON-CARDS.html",
@@ -130,8 +130,8 @@
     {
       "url": "fr/USER-MANUAL.html",
       "group": "fr",
-      "bytes": 259495,
-      "sha256": "30224206e0682e214ff9487481275958f53afdfac17ef667bc8b4fa7f9db03c5"
+      "bytes": 259939,
+      "sha256": "d250890942eb77fe14bcf1b1bc7b9aff4d501ae7e9e2ffedc94db8ac1e1c6778"
     },
     {
       "url": "fr/VERIFICATION.txt",
@@ -184,14 +184,14 @@
     {
       "url": "en/MANUEL-UTILISATION.html",
       "group": "en",
-      "bytes": 215844,
-      "sha256": "2f03a1a1b1826d605efb2fbabcc78b725dd46c2db886189c11e9f2facc449462"
+      "bytes": 216170,
+      "sha256": "9d1000f28ce9325c98b6f72478ab56defeda822e0da032e2134aed0219162d1b"
     },
     {
       "url": "en/OPEN-SEA-SCHOOL.html",
       "group": "core",
-      "bytes": 1375362,
-      "sha256": "0bad0a1603b7de6d19278f93e45dcf964890b11d0096e28109b15b22737288e9"
+      "bytes": 1385696,
+      "sha256": "d04dfa8ec70d292008a15623700050a00a5519ddd445ad3ed74cabf1d28db36b"
     },
     {
       "url": "en/PRINTABLE-LESSON-CARDS.html",
@@ -226,8 +226,8 @@
     {
       "url": "en/USER-MANUAL.html",
       "group": "en",
-      "bytes": 215844,
-      "sha256": "2f03a1a1b1826d605efb2fbabcc78b725dd46c2db886189c11e9f2facc449462"
+      "bytes": 216170,
+      "sha256": "9d1000f28ce9325c98b6f72478ab56defeda822e0da032e2134aed0219162d1b"
     },
     {
       "url": "en/VERIFICATION.txt",
