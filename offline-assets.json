@@ -1,5 +1,5 @@
 {
-  "version": "458f9d02341c6f22",
+  "version": "cb6dddb1eb1fabd2",
   "assets": [
     {
       "url": "index.html",
@@ -16,14 +16,14 @@
     {
       "url": "install.js",
       "group": "core",
-      "bytes": 9873,
-      "sha256": "1bcc6986d31e833102fc5c149a715b07dbd86e0441274d6cb9bc24349e6308c8"
+      "bytes": 9948,
+      "sha256": "97e04e55a0551921fe901d40a7b50843ddb6b921ec3afacb5d256688b710827d"
     },
     {
       "url": "install.css",
       "group": "core",
-      "bytes": 2225,
-      "sha256": "af9061fb3f2e2bbd0c7e7b505e043301eb4debf718caf60661372d005805dd4f"
+      "bytes": 2503,
+      "sha256": "fe679a125ec4646b64e2bb88e2ee660a460b5946a2efedb5485b4665a14d56e4"
     },
     {
       "url": "manifest.webmanifest",
