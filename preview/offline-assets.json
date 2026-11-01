@@ -1,5 +1,5 @@
 {
-  "version": "451e799315f525f7",
+  "version": "98985ce24e3f2a63",
   "assets": [
     {
       "url": "index.html",
@@ -10,14 +10,14 @@
     {
       "url": "INSTALL.html",
       "group": "core",
-      "bytes": 843,
-      "sha256": "2fd00f80112447251f75fb8ed17161da652e085732e5a1ceb8e9627b007c4333"
+      "bytes": 870,
+      "sha256": "526313a7a68a3233fc56cb842bba0ff7a66c10c1e9cd6e0a8801dca4b92e46f5"
     },
     {
       "url": "install.js",
       "group": "core",
-      "bytes": 9948,
-      "sha256": "97e04e55a0551921fe901d40a7b50843ddb6b921ec3afacb5d256688b710827d"
+      "bytes": 10055,
+      "sha256": "1f56b143b1e40ed0561c497822ff3f019f0db74e3efa9ad3b403e3bb8aedf16d"
     },
     {
       "url": "install.css",
@@ -88,8 +88,8 @@
     {
       "url": "fr/MANUEL-UTILISATION.html",
       "group": "fr",
-      "bytes": 259939,
-      "sha256": "d250890942eb77fe14bcf1b1bc7b9aff4d501ae7e9e2ffedc94db8ac1e1c6778"
+      "bytes": 260183,
+      "sha256": "bfa1cd31b89894848cb26bd70e942a2a9d9cd32f398eff4286f03658cf3b6351"
     },
     {
       "url": "fr/OPEN-SEA-SCHOOL.html",
@@ -130,8 +130,8 @@
     {
       "url": "fr/USER-MANUAL.html",
       "group": "fr",
-      "bytes": 259939,
-      "sha256": "d250890942eb77fe14bcf1b1bc7b9aff4d501ae7e9e2ffedc94db8ac1e1c6778"
+      "bytes": 260183,
+      "sha256": "bfa1cd31b89894848cb26bd70e942a2a9d9cd32f398eff4286f03658cf3b6351"
     },
     {
       "url": "fr/VERIFICATION.txt",
@@ -184,8 +184,8 @@
     {
       "url": "en/MANUEL-UTILISATION.html",
       "group": "en",
-      "bytes": 216170,
-      "sha256": "9d1000f28ce9325c98b6f72478ab56defeda822e0da032e2134aed0219162d1b"
+      "bytes": 216347,
+      "sha256": "9636b92dc340bdb8be4e3e43c5ce32c74dd53ea9a064a0e152ea43d39b4e12a4"
     },
     {
       "url": "en/OPEN-SEA-SCHOOL.html",
@@ -226,8 +226,8 @@
     {
       "url": "en/USER-MANUAL.html",
       "group": "en",
-      "bytes": 216170,
-      "sha256": "9d1000f28ce9325c98b6f72478ab56defeda822e0da032e2134aed0219162d1b"
+      "bytes": 216347,
+      "sha256": "9636b92dc340bdb8be4e3e43c5ce32c74dd53ea9a064a0e152ea43d39b4e12a4"
     },
     {
       "url": "en/VERIFICATION.txt",
