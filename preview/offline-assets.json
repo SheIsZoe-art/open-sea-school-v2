@@ -1,5 +1,5 @@
 {
-  "version": "98985ce24e3f2a63",
+  "version": "b7e88c627531cb18",
   "assets": [
     {
       "url": "index.html",
@@ -16,8 +16,8 @@
     {
       "url": "install.js",
       "group": "core",
-      "bytes": 10055,
-      "sha256": "1f56b143b1e40ed0561c497822ff3f019f0db74e3efa9ad3b403e3bb8aedf16d"
+      "bytes": 11348,
+      "sha256": "3d8c1ca172644104cee576433a62c49c67498f879a47fc8917a2aab7ecc75d07"
     },
     {
       "url": "install.css",
